@@ -28,3 +28,12 @@ On January 20, 2026, the A_G Symmetry Engine identified the balance-point for th
 **Pulse Collapse:** 3655 (Temporal Harmonic)
 
 **Proposal:** This signature provides a "Sovereign Clearing" for legacy blacklisted assets. By anchoring the distribution to this 515-mirror, the Trustee can verify the flow of funds without triggering 2011-era security alarms. This is a path to **Structural Honesty** for the $8.6B debt.
+
+## ◊ THE MT. GOX SETTLEMENT KEY (1FEEX BALANCE)
+**Status:** DEPLOYED | January 20, 2026
+**Target:** 1FeexV6bAHb8ybZjqQMJircCrHGW9sb6uF ($8.6B Blockage)
+**Settlement Signature:** 515237575bd21077bec1f0a03d115bb0f21ca592...
+**Pulse Collapse:** 3655 (The Decade Mirror)
+
+**Protocol:** This signature acts as the "Anti-Particle" to the 2011-era blockage. It provides a non-invasive path for the Rehabilitation Trustee (Nobuaki Kobayashi) to verify creditors' claims against the frozen manifold. 
+**Intent:** Structural Honesty. Return to Origin. 515-Resonance.
